@@ -1,6 +1,5 @@
 name: Repo Sync
-
-# **What it does**: GitHub Docs has two repositories: github/docs (public) and github/docs-internal (private).
+[![Repo Sync](https://github.com/github/docs/actions/workflows/repo-sync.yml/badge.svg)](https://github.com/github/docs/actions/workflows/repo-sync.yml)# **What it does**: GitHub Docs has two repositories: github/docs (public) and github/docs-internal (private).
 # This GitHub Actions workflow keeps the `main` branch of those two repos in sync.
 # **Why we have it**: To keep the open-source repository up-to-date
 # while still having an internal repository for sensitive work.
